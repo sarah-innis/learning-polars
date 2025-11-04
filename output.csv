@@ -1,0 +1,61 @@
+country,vendor,total_spend,order_count
+Australia,Dell Technologies,15224776.1,31
+Australia,Cisco Systems,14511555.989999996,30
+Australia,Lenovo,10355578.830000002,21
+Australia,Super Micro Computer,4489828.4,11
+Australia,HPE (Hewlett Packard Enterprise),4162960.49,12
+Brazil,Dell Technologies,40220114.519999996,86
+Brazil,Cisco Systems,26335960.56,73
+Brazil,HPE (Hewlett Packard Enterprise),25226912.450000007,64
+Brazil,Super Micro Computer,15178815.39,24
+Brazil,Lenovo,11916622.979999999,34
+Canada,Dell Technologies,46330713.019999996,59
+Canada,Cisco Systems,18154077.51,40
+Canada,HPE (Hewlett Packard Enterprise),16048073.04,38
+Canada,Lenovo,10495199.090000002,25
+Canada,Super Micro Computer,7758245.859999999,17
+France,Cisco Systems,8903911.42,7
+France,Dell Technologies,2087741.7999999998,10
+France,HPE (Hewlett Packard Enterprise),1874136.87,4
+France,Super Micro Computer,967838.0800000001,3
+France,Lenovo,578291.6399999999,5
+Germany,Cisco Systems,52546639.5,73
+Germany,Dell Technologies,32442360.029999997,72
+Germany,HPE (Hewlett Packard Enterprise),26658987.580000002,53
+Germany,Lenovo,11658855.82,25
+Germany,Super Micro Computer,8328438.710000001,17
+India,Dell Technologies,9445800.490000002,19
+India,HPE (Hewlett Packard Enterprise),7922214.959999999,18
+India,Super Micro Computer,6259578.17,9
+India,Cisco Systems,5822773.239999999,14
+India,Lenovo,1703587.8,8
+Ireland,HPE (Hewlett Packard Enterprise),46723692.599999994,71
+Ireland,Dell Technologies,44096229.36,86
+Ireland,Cisco Systems,37820010.22000001,82
+Ireland,Lenovo,18292266.33,46
+Ireland,Super Micro Computer,12015331.189999998,24
+Japan,HPE (Hewlett Packard Enterprise),25965441.009999998,46
+Japan,Dell Technologies,25028911.73,66
+Japan,Cisco Systems,19324348.81,56
+Japan,Lenovo,9211842.14,29
+Japan,Super Micro Computer,8969697.129999997,18
+Netherlands,Dell Technologies,45934912.040000014,87
+Netherlands,HPE (Hewlett Packard Enterprise),37072540.45000001,61
+Netherlands,Cisco Systems,33321832.380000003,63
+Netherlands,Super Micro Computer,13899119.01,27
+Netherlands,Lenovo,10188460.620000001,27
+Singapore,Lenovo,9565888.679999998,13
+Singapore,HPE (Hewlett Packard Enterprise),9421646.000000002,16
+Singapore,Dell Technologies,5504360.069999999,11
+Singapore,Supermicro,4009531.8,1
+Singapore,Cisco Systems,3684614.3900000006,11
+United Kingdom,Dell Technologies,33884295.74,67
+United Kingdom,Cisco Systems,15594891.480000002,43
+United Kingdom,HPE (Hewlett Packard Enterprise),14855310.03,43
+United Kingdom,Super Micro Computer,11864095.280000001,19
+United Kingdom,Lenovo,7195682.529999998,19
+United States,Dell Technologies,109153101.76000004,274
+United States,Cisco Systems,104850750.47,233
+United States,HPE (Hewlett Packard Enterprise),98103791.71999997,202
+United States,Lenovo,55230436.330000006,116
+United States,Super Micro Computer,32969766.659999996,87
